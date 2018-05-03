@@ -1,0 +1,17 @@
+.Nav {
+	background-color: #91A5DBFF;
+}
+
+li {
+	display: inline-block;
+	width: 33.3%;
+	text-align: center;
+}
+
+ul {
+	text-shadow: 
+    -1px -1px 0 #525151,
+    1px -1px 0 #525151,
+    -1px 1px 0 #525151,
+    1px 1px 0 #525151;
+}

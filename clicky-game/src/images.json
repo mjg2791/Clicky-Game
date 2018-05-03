@@ -1,0 +1,73 @@
+[
+	{
+		"id": 1,
+		"name": "bear1",
+		"image": "https:\/\/images.pexels.com\/photos\/158109\/kodiak-brown-bear-adult-portrait-wildlife-158109.jpeg",
+		"clicked": false
+	},
+	{
+		"id": 2,
+		"name": "bear2",
+		"image": "https:\/\/images.pexels.com\/photos\/65289\/polar-bear-bear-teddy-sleep-65289.jpeg",
+		"clicked": false
+	},
+	{
+		"id": 3,
+		"name": "bear3",
+		"image": "https:\/\/images.pexels.com\/photos\/46175\/bear-brown-bear-animal-teddy-bear-46175.jpeg",
+		"clicked": false
+	},
+	{
+		"id": 4,
+		"name": "bear4",
+		"image": "https:\/\/images.pexels.com\/photos\/158109\/kodiak-brown-bear-adult-portrait-wildlife-158109.jpeg",
+		"clicked": false
+	},
+	{
+		"id": 5,
+		"name": "bear5",
+		"image": "https:\/\/images.pexels.com\/photos\/53425\/polar-bear-arctic-wildlife-snow-53425.jpeg",
+	},
+	{
+		"id": 6,
+		"name": "bear6",
+		"image": "https:\/\/images.pexels.com\/photos\/162320\/polar-bear-ice-arctic-white-162320.jpeg",
+		"clicked": false
+	},
+	{
+		"id": 7,
+		"name": "bear7",
+		"image": "https:\/\/images.pexels.com\/photos\/162368\/bear-zoo-wildlife-animal-162368.jpeg",
+		"clicked": false
+	},
+	{
+		"id": 8,
+		"name": "bear8",
+		"image": "https:\/\/images.pexels.com\/photos\/451230\/pexels-photo-451230.jpeg",
+		"clicked": false
+	},
+	{
+		"id": 9,
+		"name": "bear9",
+		"image": "https:\/\/images.pexels.com\/photos\/158140\/european-brown-bear-wild-animal-bear-dangerous-158140.jpeg",
+		"clicked": false
+	},
+	{
+		"id": 10,
+		"name": "bear10",
+		"image": "https:\/\/images.pexels.com\/photos\/539689\/pexels-photo-539689.jpeg",
+		"clicked": false
+	},
+	{
+		"id": 11,
+		"name": "bear11",
+		"image": "https:\/\/images.pexels.com\/photos\/598966\/pexels-photo-598966.jpeg",
+		"clicked": false
+	},
+	{
+		"id": 12,
+		"name": "bear12",
+		"image": "https:\/\/images.pexels.com\/photos\/247955\/pexels-photo-247955.jpeg",
+		"clicked": false
+	}
+]

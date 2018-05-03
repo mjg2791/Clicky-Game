@@ -1,0 +1,13 @@
+footer {
+	background-color: #91A5DBFF;
+}
+
+h2 {
+	justify-content: center;
+	text-align: center;
+	text-shadow: 
+    -1px -1px 0 #525151,
+    1px -1px 0 #525151,
+    -1px 1px 0 #525151,
+    1px 1px 0 #525151;
+}

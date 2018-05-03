@@ -1,0 +1,10 @@
+.Game {
+	
+}
+.rbs {
+	height: 200px;
+}
+.rbs:hover {
+	cursor: alias;
+	transform: scale(1.5);
+}
